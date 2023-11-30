@@ -1,0 +1,5 @@
+.displayb {
+  background-color: white;
+  overflow: auto;
+  resize: var(linear);
+}
